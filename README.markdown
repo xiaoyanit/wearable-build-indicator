@@ -1,0 +1,1 @@
+This code talks to an Android phone connected via ADB using the Arduino ADB library. The Android program queries the status from our Jenkins build server and we displayed it with some LEDs on the Arduino.
